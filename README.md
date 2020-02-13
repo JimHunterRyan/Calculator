@@ -1,7 +1,7 @@
 # Calculator
 A simple integer calculator in JavaScript
 
-[Live site](http://ryanjim.me/Calculator/)  
+[Live site](https://jimryan.eu/Calculator/)  
 
 ![](calculator.gif)  
 
